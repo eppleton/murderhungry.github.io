@@ -27,7 +27,7 @@ authors:
   toni:
     name: toni
     display_name: toni
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/toni.png'
     email: wowthemesnet@gmail.com
     web: https://www.eppleton.de
     twitter: https://twitter.com/monacotoni
@@ -35,8 +35,8 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  instagram: https://www.instagram.com/murdehungry
+  facebook: https://www.facebook.com/murdehungry
   twitter: https://twitter.com/murderhunrgy
 
 # Plugins
