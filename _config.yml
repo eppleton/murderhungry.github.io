@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: toni
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'murdehungry'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -28,7 +28,7 @@ authors:
     name: toni
     display_name: toni
     avatar: 'assets/images/toni.png'
-    email: wowthemesnet@gmail.com
+    email: toni.epple@eppleton.de
     web: https://www.eppleton.de
     twitter: https://twitter.com/monacotoni
     description: "I'm Toni Epple, a software developer who loves hosting murder mystery parties based in Munich, Germany. I'm the creator of the Murderhungry Blog and hopefully the App."
