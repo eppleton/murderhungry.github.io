@@ -3,7 +3,7 @@ layout: post
 title:  "The Murderhungry Blog"
 author: toni
 categories: [ roadmap ]
-image: assets/images/2.jpg
+image: assets/images/crime_scene.png
 ---
 So here we are, an empty document staring at me, waiting to be filled with exiting and engaging info about my latest endeavour. I'm a bit nervous and don't know exactly how to kick this off. OK, no overthinking, let's just start. 
 
