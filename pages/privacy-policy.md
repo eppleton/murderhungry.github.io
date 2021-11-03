@@ -24,6 +24,9 @@ If you have subscribed to one of our services, you may unsubscribe by following 
 
 You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
 
+### Contact Form
+When using our contact form, the data you enter is processed by the external provider Formspree.io and is subject to its privacy policy. There is legitimate interest in using a forwarding service such as Formspree.io to enable the basic functionality of the contact form. Further information and objection options can be found in the privacy policy of Formspree.io: http://docs.formspree.io/files/privacy.pdf.
+
 ### Cookies
 Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
 
