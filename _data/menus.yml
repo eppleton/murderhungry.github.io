@@ -7,9 +7,11 @@ topmenu:
 - title: About
   url: "about/"
 
+- title: Preview
+  url: "preview/"
+
 - title: Contact
   url: "contact/"
-
 
 # Footer Menu
 footermenu:
