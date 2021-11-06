@@ -22,5 +22,8 @@ footermenu:
 - title: Privacy Policy
   url: "privacy-policy/"
 
+  - title: Imprint
+  url: "imprint/"
+
 - title: Contact
   url: "contact/"
