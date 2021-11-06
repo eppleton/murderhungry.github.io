@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Checkout the app"
+title:  "Checkout the app!"
 author: toni
 categories: [ roadmap ]
 image: assets/images/app.gif
