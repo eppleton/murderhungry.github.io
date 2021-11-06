@@ -5,4 +5,4 @@ permalink: "/about/"
 image: assets/images/about_banner.jpg
 ---
 
-Hi I'm Anton "Toni" Epple, a software developer based in Munich, Germany. I'm a [Java Champion]() In my spare time I try to do fun projects like this :-). Please share your thoughts about the progress and ideas I have for this app. If you would like to show your support, please subscribe to my newsletter. This will help me understand, if th.
+Hi we're Barbara "Babs" Py and Anton "Toni" Epple, a married couple from Munich, Germany. We love to write and host murder mystery dinner parties. That's why we decided to create this app. Please share your thoughts, wishes and ideas for this app with us. If you would like to show your support, please subscribe to our newsletter. It's our main indicator, if we're doing this just for ourselves or for real future users :-).
