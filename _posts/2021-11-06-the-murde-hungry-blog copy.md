@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Murderhungry Blog"
+title:  "Our mission"
 author: toni
 categories: [ roadmap ]
 image: assets/images/crime_scene.png
