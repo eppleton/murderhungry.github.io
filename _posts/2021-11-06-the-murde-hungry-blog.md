@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our mission"
+title:  "Our mission: murder"
 author: toni
 categories: [ roadmap ]
 image: assets/images/crime_scene.png
