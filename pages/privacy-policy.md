@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 comments: false
 ---
-
+ ; Google Tag Manager; Google Analytics; Disqus.
 We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Eppleton IT Consulting. The use of the Internet pages of the Eppleton IT Consulting is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
 
 The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the Eppleton IT Consulting. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
@@ -306,3 +306,15 @@ We clarify that the provision of personal data is partly required by law (e.g. t
 As a responsible company, we do not use automatic decision-making or profiling.
 
 Developed by the specialists for LegalTech at Willing & Able that also developed the system for esign pdfs. The legal texts contained in our privacy policy generator have been provided and published by Prof. Dr. h.c. Heiko Jonny Maniero from the German Association for Data Protection and Christian Solmecke from WBS law.
+
+### 21. Our service partners
+
+We may use the following third-party service providers named below to process and store your data:
+
+Mailchimp (The Rocket Science Group, LLC), which we use to manage email marketing subscriber lists and send emails to our subscribers. Read their privacy policy.
+
+Google LLC, We use Google Tag Manager in Combination with Google Analytics service to measure the performance of this website and the number of Visitors.
+
+Disqus with advertising enabled: for enabling users to comment and discuss the content of this website.
+
+Automattic, Inc., whose WordPress software (and associated add-ons) we use to manage the content of this website.
