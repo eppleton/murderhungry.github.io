@@ -26,7 +26,8 @@
 
 $green: #08a057 !default;
 $blue: #3d61fd !default;
-
+$navbar-padding-y: 0.5em;
+$navbar-padding-x: 0.5em;
 @import 'bootstrap/bootstrap';
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
@@ -51,19 +52,6 @@ body {
 
 .serif-font {
     font-family: PT Serif;
-}
-
-@media (max-width: 1366px) {
-
-    .container-xl,
-    .container-lg,
-    .container-md,
-    .container-sm,
-    .container {
-        width: 90%;
-        max-width: 90%;
-        padding: 0 25px;
-    }
 }
 
 main {
@@ -159,9 +147,9 @@ small,
 ================================================== */
 
 .start-header {
+    padding: 0;
     opacity: 1;
     transform: translateY(0);
-    padding: 20px 0;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 
@@ -216,7 +204,12 @@ small,
 .hero {
     background: #fdd93d;
     padding: 0.5rem;
+    margin-bottom: 2rem;
 }
+
+.md-text-center {
+    text-align: center;
+ }
 
 @media only screen and (min-width: 768px) {
     .hero {
@@ -225,6 +218,24 @@ small,
     .hero h1 {
         font-size: 2.5em;
     }
+
+    .container-xl,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container {
+        width: 90%;
+        max-width: 90%;
+        padding: 0 25px;
+    }
+
+    .start-header {
+        padding: 20px 0;
+    } 
+
+    .md-text-center {
+        text-align: inherit;
+     }
 }
 
 @media only screen and (max-width: 1024px) {
