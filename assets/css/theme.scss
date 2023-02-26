@@ -215,11 +215,15 @@ small,
 ================================================== */
 .hero {
     background: #fdd93d;
+    padding: 0.5rem;
 }
 
 @media only screen and (min-width: 768px) {
     .hero {
         padding: 5rem 5rem;
+    }
+    .hero h1 {
+        font-size: 2.5em;
     }
 }
 
@@ -256,7 +260,7 @@ small,
 }
 
 .hero h1 {
-    font-size: 2.5em;
+    font-size: 1.5em;
 }
 
 .section-title h2 {
