@@ -3,11 +3,27 @@ layout: default
 title: 404
 permalink: /404.html
 ---
-<div class="text-center">
-<h1 class="mt-5"><span class="badge badge-dark font-weight-normal">404</span></h1>
-<h1 class="display-1 mt-4 mb-4"> Page not found!</h1>
-<p>Please use the search bar from the bottom left or visit our <a href="{{site.baseurl}}/">homepage</a>!</p>
+<div class="text-center" id="default404">
+    <h1 class="mt-5"><span class="badge badge-dark font-weight-normal">404</span></h1>
+    <h1 class="display-1 mt-4 mb-4"> Page not found!</h1>
+    <p>Please use the search bar from the bottom left or visit our <a href="{{site.baseurl}}/">homepage</a>!</p>
+</div>
+<div class="text-center" id="appNotInstalled" hidden="true">
+    <h1 class="mt-5"><span class="badge badge-dark font-weight-normal">404</span></h1>
+    <h1 class="display-1 mt-4 mb-4"> App not Installed!</h1>
+    <p>Please go to the app store and install the app!</p>
 </div>
 <script>
-var url = document.URL;  alert(url); 
+    const url = new URL(document.URL);
+    const pathParams = url.pathname.split('/');
+    const path = pathParams[1];
+    console.log("path")
+    if (path && path == 'part') {
+        const part = pathParams[2];
+        if (part) {
+            document.getElementById("default404").hidden = true;
+            document.getElementById("appNotInstalled").hidden = false;
+        }
+    }
+
 </script>
