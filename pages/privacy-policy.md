@@ -84,7 +84,7 @@ The Internet pages of Eppleton IT Consulting don't use cookies.
 
 ### 4. Hosting
 
-Our hoster collects the following data transmitted by your browser in so-called log files:
+This website is hosted on Github Pages. Our hoster collects the following data transmitted by your browser in so-called log files:
 
 IP address, the address of the previously visited website (referer request header), date and time of the request, time zone difference from Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request came and information about the browser and operating system.
 
@@ -95,8 +95,11 @@ There is no tracking and we do not have direct access to this data, but only rec
 We use the following hoster to make our website available:
 
 GitHub Inc.
+
 88 Colin P Kelly Jr St
+
 San Francisco, CA 94107
+
 United States
 
 This is the recipient of your personal data. This corresponds to our legitimate interest within the meaning of Art. 6 (1) p. 1 lit. f DSGVO, not to have to maintain a server on our premises ourselves. Server location is USA.
@@ -109,9 +112,10 @@ The data will be deleted as soon as the purpose of the processing ceases to appl
 
 The processing of the data provided under this section is not required by law or contract. The functionality of the website is not guaranteed without the processing.
 
-GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information, please visit: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors
+GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information, please visit: 
 
-Translated with www.DeepL.com/Translator (free version)
+https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors
+
 
 ### 5. Subscription to our newsletters
 
