@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-google_analytics: UA-211898691-1
+# google_analytics: UA-211898691-1
 # Authors
 authors:
   toni:
