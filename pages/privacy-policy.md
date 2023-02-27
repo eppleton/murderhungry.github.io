@@ -264,4 +264,8 @@ We may use the following third-party service providers named below to process an
 
 Mailchimp (The Rocket Science Group, LLC), which we use to manage email marketing subscriber lists and send emails to our subscribers. Read their privacy policy.
 
+GitHub Inc. 88 Colin P Kelly Jr St San Francisco, CA 94107 United States, which we use or hsting this website
+
+
+
 
