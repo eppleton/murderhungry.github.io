@@ -1,6 +1,5 @@
 ---
 layout: default
-disqus: false
 ---
 <div class="col-lg-8mx-auto">
     <div class="row">
@@ -12,11 +11,6 @@ disqus: false
             <div class="article-post serif-font">
             {{content}}
             </div>
-            {% if page.comments == true %}
-                <div id="comments" >             
-                     {% include disqus.html %} 
-                </div>
-            {% endif %}
         </div>
         <div id="wrapper" class="col">
             <div class="phone" id="phone_1" style="width: 360px; height: 740px">
