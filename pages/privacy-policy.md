@@ -82,11 +82,36 @@ Website: www.murderhungry.com
 
 The Internet pages of Eppleton IT Consulting don't use cookies.
 
-### 4. Collection of general data and information
+### 4. Hosting
 
-The website of Eppleton IT Consulting collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+Our hoster collects the following data transmitted by your browser in so-called log files:
 
-When using these general data and information, Eppleton IT Consulting does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, Eppleton IT Consulting analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+IP address, the address of the previously visited website (referer request header), date and time of the request, time zone difference from Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request came and information about the browser and operating system.
+
+This is necessary to display our website and to ensure stability and security. This corresponds to our legitimate interest within the meaning of Art. 6 para. 1 p. 1 lit. f DSGVO.
+
+There is no tracking and we do not have direct access to this data, but only receive an anonymized statistical summary. This includes the address of the previously visited page, the frequency of each page viewed and the number of unique visitors. We do not combine this data with other data.
+
+We use the following hoster to make our website available:
+
+GitHub Inc.
+88 Colin P Kelly Jr St
+San Francisco, CA 94107
+United States
+
+This is the recipient of your personal data. This corresponds to our legitimate interest within the meaning of Art. 6 (1) p. 1 lit. f DSGVO, not to have to maintain a server on our premises ourselves. Server location is USA.
+
+You can find more information about objection and removal options vis-à-vis GitHub at: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages.
+
+You have the right to object to the processing. Whether the objection is successful is to be determined in the context of a balancing of interests.
+
+The data will be deleted as soon as the purpose of the processing ceases to apply.
+
+The processing of the data provided under this section is not required by law or contract. The functionality of the website is not guaranteed without the processing.
+
+GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information, please visit: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors
+
+Translated with www.DeepL.com/Translator (free version)
 
 ### 5. Subscription to our newsletters
 
